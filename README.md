@@ -7,7 +7,7 @@ Two main files exist. The file main.m will produce all the results presented in 
 The programs referred to in this code, with their corresponding uses are
 
 L63.m
-input: $u=(x_0,y_0,z_0)$, $\rho$, $\sigma$, $\beta$
+input: $u=(x_0,y_0,z_0)$, $\rho$, $\sigma$, $\beta$ \\
 output: The answers to the Lorenz equations $dx/dt(u), dy/dt(u), dz/dt(u)$ with parameters $\rho$, $\sigma$, $\beta$ 
 
 Euler_L63.m
